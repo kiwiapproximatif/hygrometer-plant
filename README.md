@@ -20,7 +20,7 @@ void loop() {
 }
 ```
 
-You can use the function [`pinMode`](https://www.arduino.cc/reference/en/language/functions/digital-io/pinmode/) pour  et [`digitalWrite`](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalwrite/). 
+You can use the function [`pinMode`](https://www.arduino.cc/reference/en/language/functions/digital-io/pinmode/) and [`digitalWrite`](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalwrite/). 
 
 The first allows you to configure the inputs/outputs to be managed. The second allows you to write a `HIGH` value, corresponding to 5V in our case, or a `LOW` value, corresponding to 0V, i.e. ground.
   
